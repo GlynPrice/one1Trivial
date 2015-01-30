@@ -1,7 +1,7 @@
 # one1Trivial
 aaaaa  
 
-teach  
+Teach Myself Git  
 git  
 aaaaa bbbb ccccc  
 answer
