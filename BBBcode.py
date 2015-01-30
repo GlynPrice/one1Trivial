@@ -1,6 +1,6 @@
 print "BBBCode.py: Start"
 
-bc = 1066
+bc = 11833
 print "bc= ", bc
 
 print "BBBCode.py: End"
