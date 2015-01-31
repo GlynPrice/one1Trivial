@@ -1,9 +1,9 @@
 
 print "forAAACode.py: Start"
 
-myList = ["red", "Orange", "yellow", "Green", "Blue", "Indigo", "Violet"]
+myList = ["Red", "Orange", "Yellow", "Green", "Blue", "Indigo", "Violet"]
 
-for pp in myList:
-    print pp
+for colour in myList:
+    print colour
 
 print "forAAACode.py : End"
